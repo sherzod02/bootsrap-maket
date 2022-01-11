@@ -1,0 +1,87 @@
+html {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: inherit;
+          box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.editor {
+  font-size: 15px;
+  font-family: monospace;
+  font-weight: bold;
+}
+
+.silver {
+  background-color: #ddd;
+  width: 280px;
+}
+
+.two {
+  z-index: 1;
+}
+
+.bg-1 {
+  background-image: url("../img/pattern.png");
+}
+
+.bg {
+  background-image: url("../img/layer-city.png");
+  background-repeat: repeat;
+  height: 200px;
+  z-index: -1;
+  margin-top: -180px;
+}
+
+.bg-3 {
+  position: relative;
+}
+
+.img1 {
+  z-index: 1;
+}
+
+.img2 {
+  position: absolute;
+  top: 22%;
+  left: 0;
+  z-index: -1;
+}
+
+.img-12 {
+  padding-left: 130px;
+}
+
+.img-18 {
+  width: 280px;
+}
+
+.img-20 {
+  text-decoration: none;
+}
+
+.img-21 {
+  font-size: 80px;
+}
+
+.aaa {
+  background-color: #ddd;
+}
+
+.img-28 {
+  background-color: rgba(6, 6, 139, 0.938);
+  -webkit-transform: translateY(-45px);
+          transform: translateY(-45px);
+  z-index: -1;
+}
+/*# sourceMappingURL=main.css.map */
