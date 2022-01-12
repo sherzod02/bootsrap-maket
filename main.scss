@@ -46,9 +46,6 @@
       left: 0;
       z-index: -1;
   }
-  .img-12 {
-      padding-left: 130px;
-  }
   .img-18 {
       width: 280px;
   }
@@ -61,7 +58,13 @@
   .aaa {
       background-color: #ddd;
   }
+  .img-15 {
+      margin-right: 0;
+      text-align: end;
+      padding-right: 0;
+    //   transform: translateX(180px);
+  }
   .img-28 {
     background-color: rgba(6, 6, 139, 0.938);
-    transform: translateY(-45px);
+    transform: translateY(-12px);
   }

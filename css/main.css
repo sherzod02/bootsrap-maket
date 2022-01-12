@@ -59,10 +59,6 @@ body {
   z-index: -1;
 }
 
-.img-12 {
-  padding-left: 130px;
-}
-
 .img-18 {
   width: 280px;
 }
@@ -79,9 +75,15 @@ body {
   background-color: #ddd;
 }
 
+.img-15 {
+  margin-right: 0;
+  text-align: end;
+  padding-right: 0;
+}
+
 .img-28 {
   background-color: rgba(6, 6, 139, 0.938);
-  -webkit-transform: translateY(-45px);
-          transform: translateY(-45px);
+  -webkit-transform: translateY(-12px);
+          transform: translateY(-12px);
 }
 /*# sourceMappingURL=main.css.map */
