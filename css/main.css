@@ -14,6 +14,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+  overflow-x: hidden;
 }
 
 .editor {
@@ -23,7 +24,7 @@ body {
 }
 
 .silver {
-  background-color: #ddd;
+  background-color: silver;
   width: 280px;
 }
 
@@ -71,7 +72,7 @@ body {
 }
 
 .img-21 {
-  font-size: 80px;
+  font-size: 81px;
 }
 
 .aaa {
@@ -82,6 +83,5 @@ body {
   background-color: rgba(6, 6, 139, 0.938);
   -webkit-transform: translateY(-45px);
           transform: translateY(-45px);
-  z-index: -1;
 }
 /*# sourceMappingURL=main.css.map */

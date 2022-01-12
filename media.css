@@ -113,6 +113,9 @@
         width: 100%;
         text-align: center;
     }
+    .img-21 {
+        font-size: 61px;
+    }
 }
 @media(max-width:550px){
     .img-28 {
